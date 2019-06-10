@@ -1,9 +1,9 @@
 ### AWS CREDS
 variable "access_key" {
-  default = "AKIAXPPXYL4YSVUKBAVI"
+  default = "REDACT"
 }
 variable "secret_key" {
-  default = "OqdX7iblCcV4V9A+WuX2Tt4PDsyhP+EKMgTN7iSP"
+  default = "REDACT"
 }
 variable "aws_region" {
   default = "us-east-1"
